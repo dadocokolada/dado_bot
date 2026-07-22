@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "dado-bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "dado-bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "dadin247server.aternos.me",
+    "ip": "dadin247server.aternos.me:25182",
     "port": 25182,
     "version": "26.2",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
